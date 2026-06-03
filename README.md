@@ -1,7 +1,4 @@
-# 🛡️ KnightBrowser
-
-![KnightBrowser Banner](https://raw.githubusercontent.com/darkknightlag
-/knightbrowser/main/assets/banner.png) > Hızlı, güvenli ve şövalye şıklığında bir web deneyimi. 
+# 🛡️ KnightBrowser > Hızlı, güvenli ve şövalye şıklığında bir web deneyimi. 
 
 KnightBrowser, internette gezinirken ihtiyacınız olan hızı ve gizliliği minimalist bir tasarımla sunan, kullanıcı odaklı yeni nesil bir web tarayıcısıdır. Gelişmiş optimizasyonları sayesinde sisteminizi yormadan kararlı bir performans sunar.
 
