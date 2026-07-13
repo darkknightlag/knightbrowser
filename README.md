@@ -1,4 +1,5 @@
 # 🛡️ KnightBrowser > Hızlı, güvenli ve şövalye şıklığında bir web deneyimi. 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 KnightBrowser, internette gezinirken ihtiyacınız olan hızı ve gizliliği minimalist bir tasarımla sunan, kullanıcı odaklı yeni nesil bir web tarayıcısıdır. Gelişmiş optimizasyonları sayesinde sisteminizi yormadan kararlı bir performans sunar.
 
